@@ -49,6 +49,6 @@ This dashboard is suitable for business teams to monitor churn KPIs and drive st
 
 # 7. Screenshots / Demos
 
-[Dashboard Preview]- 
+[Dashboard Preview]- https://github.com/the-sweta-upadhyay/Customer_Churn_Analysis/blob/main/Churn_Analysis_Dashboard.png 
 
 
