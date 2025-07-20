@@ -14,12 +14,12 @@ This dashboard is suitable for business teams to monitor churn KPIs and drive st
 
 # 3. Tech Stack
 
-📊 Python (Pandas, Seaborn, Matplotlib) - Data cleaning & exploratory data analysis 
-📂 Power BI - Interactive dashboard and data storytelling
-🧠 MySQL – Used for storing data from csv file into database
-📝 File Format – .pbix for development and .png for dashboard previews
-📁 Jupyter Notebook - EDA scripting and visualization 
-📊 Excel (optional) - Manual data validation and review
+- 📊 Python (Pandas, Seaborn, Matplotlib) - Data cleaning & exploratory data analysis 
+- 📂 Power BI - Interactive dashboard and data storytelling
+- 🧠 MySQL – Used for storing data from csv file into database
+- 📝 File Format – .pbix for development and .png for dashboard previews
+- 📁 Jupyter Notebook - EDA scripting and visualization 
+- 📊 Excel (optional) - Manual data validation and review
 
 # 4. Data Source
 
